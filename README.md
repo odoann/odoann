@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Odo Ann
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#, .Net, Xamarine,Javascript
+- 🌱 I’m currently learning HTML, CSS & Javascript
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me odoann77@gmail.com
 
